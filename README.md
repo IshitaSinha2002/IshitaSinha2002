@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ishita Sinha</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Full Stack Developer</h3>
+<h3 align="center">Machine Learning Engineer | Full Stack Developer</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Intern at **Boston Scientific**
-- 💼 Incoming Full-Time Employee  
+- 💼 Full-Time at **Boston Scientific**
 - 🌱 Exploring **Machine Learning, Full Stack Development & Data Visualization**
 - 🧠 Building real-world ML applications  
 - ⚡ Strong in backend development & UI design  
