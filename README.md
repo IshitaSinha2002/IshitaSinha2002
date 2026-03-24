@@ -1,42 +1,99 @@
+<h1>Hi 👋, I'm Ishita Sinha</h1>
+<h3>Data Analyst @ Boston Scientific | Machine Learning Enthusiast</h3>
+
+<p>
+Turning data into insights • Building intelligent systems • Designing impactful dashboards ✨
+</p>
+
+---
+
+### 👩‍💻 About Me
+- 💼 Data Analyst at **Boston Scientific**  
+- 📊 Passionate about data analytics, machine learning & visualization  
+- 🧠 Skilled in EDA, ETL pipelines, and data modeling  
+- ⚡ I enjoy solving real-world problems using data  
+
+---
+
 ### 🛠️ Technical Skills
 
 #### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/SQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=java&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=00FFFF"/>
+</p>
 
 #### 📊 Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Tableau Prep Builder](https://img.shields.io/badge/Tableau%20Prep%20Builder-1F77B4?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=FF6B6B"/>
+<img src="https://img.shields.io/badge/Tableau%20Prep-111827?style=for-the-badge&logo=tableau&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel&logoColor=22C55E"/>
+</p>
 
-#### 🧹 Data Analysis & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)
-![EDA](https://img.shields.io/badge/EDA-6A5ACD?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FF8C00?style=flat-square)
+#### 🤖 Data Analysis & Machine Learning
+<p>
+<img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-020617?style=for-the-badge&logo=scikit-learn&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/EDA-020617?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/NLP-020617?style=for-the-badge&logoColor=F472B6"/>
+</p>
 
 #### 🔄 Data Processing & ETL
-![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square)
-![Data Transformation](https://img.shields.io/badge/Data%20Transformation-20B2AA?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/ETL-1E293B?style=for-the-badge&logoColor=F87171"/>
+<img src="https://img.shields.io/badge/Power%20Query-1E293B?style=for-the-badge&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/Data%20Transformation-1E293B?style=for-the-badge&logoColor=22D3EE"/>
+</p>
 
 #### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+<p>
+<img src="https://img.shields.io/badge/MySQL-030712?style=for-the-badge&logo=mysql&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/MongoDB-030712?style=for-the-badge&logo=mongodb&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/Firebase-030712?style=for-the-badge&logo=firebase&logoColor=FACC15"/>
+</p>
 
 #### ⚙️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
+<p>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=F472B6"/>
+</p>
 
 #### 🚀 Frameworks & Automation
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/Express.js-020617?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Selenium-020617?style=for-the-badge&logo=selenium&logoColor=84CC16"/>
+<img src="https://img.shields.io/badge/Power%20Automate-020617?style=for-the-badge&logoColor=60A5FA"/>
+</p>
+
+---
+
+### 📊 GitHub Insights
+
+<img src="https://komarev.com/ghpvc/?username=IshitaSinha2002&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSinha2002&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+### 📫 Connect With Me
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+### ⚡ Fun Fact
+I turn messy data into meaningful stories 📊✨
