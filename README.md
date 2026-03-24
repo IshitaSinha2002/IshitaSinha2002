@@ -25,6 +25,7 @@ Turning data into insights • Building intelligent systems • Designing impact
 
 #### 📈 Visualization & BI
 <img src="https://skillicons.dev/icons?i=tableau" />
+<img src="https://img.shields.io/badge/Tableau%20Prep%20Builder-1F77B4?style=flat-square&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
 #### 🗄️ Databases
