@@ -65,8 +65,8 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: [(https://www.linkedin.com/in/ishitasinha16/)]
-- 📧 Email: [ishitasinha16@gmail.com]
+- 💼 LinkedIn: https://www.linkedin.com/in/ishitasinha16/
+- 📧 Email: ishitasinha16@gmail.com
 
 ---
 
