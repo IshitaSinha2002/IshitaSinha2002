@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ishita Sinha</h1>
-<h3>Data Analyst @ Boston Scientific | Machine Learning Enthusiast</h3>
+<h2>Data Analyst @ Boston Scientific | Machine Learning Enthusiast</h2>
 
 <p>
 Turning data into insights • Building intelligent systems • Designing impactful dashboards ✨
