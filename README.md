@@ -1,4 +1,4 @@
-<h1">Hi 👋, I'm Ishita Sinha</h1>
+<h1>Hi 👋, I'm Ishita Sinha</h1>
 <h2>Data Analyst @ Boston Scientific | Machine Learning Enthusiast</h2>
 
 <p>
