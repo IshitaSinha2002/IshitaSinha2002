@@ -79,7 +79,6 @@ Turning data into insights • Building intelligent systems • Designing impact
 
 <img src="https://komarev.com/ghpvc/?username=IshitaSinha2002&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSinha2002&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
