@@ -5,6 +5,10 @@
 Turning data into insights • Building intelligent systems • Designing impactful dashboards ✨
 </p>
 
+<a href="https://ishitasinha.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00F5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
 ---
 
 ### 👩‍💻 About Me
